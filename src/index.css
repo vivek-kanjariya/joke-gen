@@ -85,3 +85,32 @@ code {
   border: 3px blue solid;
   border-radius: 40px;
 }
+@media (max-width: 560px) {
+  .container{
+    width: 100%;
+    height: 100%;
+    background-color: yellow;
+    margin-top:0;
+    border-radius: 0;
+    margin-bottom: 0;
+  }
+  .body{
+    background-color: yellow;
+    height: 100vh;
+    margin-bottom: 0;
+  }
+  .App{
+    height: 100vh;
+    margin-bottom: 0;
+    background-color: yellow;
+  }
+  .bottom{
+    width: 90vw;
+  }
+  .btn1, .btn2{
+    font-size: small;
+    text-align: center;
+    font-weight: 800;
+    font-size: 2vh;
+  }
+}
