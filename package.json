@@ -1,6 +1,6 @@
 {
-  "name": "jg-app",
   "homepage": "https://vivek-kanjariya.github.io/joke-generator",
+  "name": "jg-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
